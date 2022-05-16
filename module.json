@@ -1,0 +1,22 @@
+{
+	"name": "crit-button-5e",
+	"title": "Critical Hit Button (5e)",
+	"description": "Adds a button to item cards to roll critical hits.",
+	"version": "0.0.1",
+	"minimumCoreVersion": "9",
+	"scripts": [
+		"scripts/main.js"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "languages/en.json"
+		}
+	],
+	"dependencies": [
+		{
+			"name": "lib-wrapper"
+		}
+	]
+}
